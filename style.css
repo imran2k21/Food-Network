@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-skip{
+    color: orange;
+}
+
+.top-sec{
+    display: flex;
+}
+.top-food{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+
+.top-food img{
+    width: 100%;
+    padding-right: 10%;
+}
+
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 40px;
+    color: black;
+    border-radius:30px;
+}
+.button:hover{
+    background-color: red;
+    color: white;
+    
+}
