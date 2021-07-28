@@ -17,7 +17,7 @@ h1{
     color: orange;
 }
 
-.top-sec{
+.sec{
     display: flex;
 }
 .top-food{
@@ -42,5 +42,36 @@ h1{
 .button:hover{
     background-color: red;
     color: white;
-    
 }
+
+
+.about{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+
+.about img{
+    width: 90%;
+    padding-left: 30%;
+}
+
+.button2{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px 40px;
+    border-radius: 30px;
+    color: white;
+}
+
+.button2:hover{
+    background-color: gold;
+    color: black;
+
+}
+
+#bg-photo{
+    background-color: lightyellow;
+}
+
